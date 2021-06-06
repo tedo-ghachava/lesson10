@@ -1,4 +1,4 @@
-//დავალება 1
+// დავალება 1
 
 // let cars = ['audi','bmw', 'lexus', 'volkswagen', 'porsche', 'audi']; 
 
@@ -7,7 +7,7 @@
 // }
 
 
-//დავალება 2
+// დავალება 2
 
 // let names = ['tekle','nino', 'nikolozi', 'gio', 'nia', 'dito']; 
 
@@ -62,11 +62,11 @@
 //     console.log(languages[i]);
 //  } 
 
-// დავალება 7
+// // დავალება 7
 // let names = ['tekle','nino', 'gio', 'dito', 'nika']; 
 
 // if( names.length == 5 && names[names.length-1]=='nika'){
-//     console.log( names.length, names[4]);
+//     console.log('მასივის რაოდენობა: 5 და ბოლო ელემენტია ნიკა');
 // } else {console.log('error');
 // } 
 
@@ -85,4 +85,4 @@
 
 // console.log(x === y);
 
-//დაბრუნებს false რადგან 1 ციფრია(number) ხოლო მეორე ტექსტი(string) და სამი ტოლობის შემთხვევაში ტიპების კონკერტაცია არ მოხდება
+// დაბრუნებს false რადგან 1 ციფრია(number) ხოლო მეორე ტექსტი(string) და სამი ტოლობის შემთხვევაში ტიპების კონკერტაცია არ მოხდება
